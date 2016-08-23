@@ -1,0 +1,14 @@
+layout_spectrum: 0.41131022246554494
+typography_spectrum: 0.8635176403913647
+color:
+  brandStrength: 0.2008222125004977
+  lightness: 0.03881591069512069
+  saturation: 0.6751615160610527
+  rhythmicContrast: 0.06686169910244644
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+name: suspicious machinery
